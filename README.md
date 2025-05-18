@@ -2,6 +2,8 @@
 
 This project is a proof-of-concept (PoC) demonstrating a web-based chat application that operates without any client-side JavaScript. It relies on chunked HTML responses to deliver new messages to users in real-time.
 
+https://github.com/user-attachments/assets/3ef367e2-45bb-432b-a711-bc395e61eb58
+
 ## How it Works
 
 The application is built using ASP.NET Core Minimal APIs and C#.
